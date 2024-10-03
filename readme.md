@@ -33,5 +33,5 @@ Ejemplo con números:
 + 2. Lista 2
 
 ## Reglas horizontales
-Se pueden crear usando tres o más "+", "-" o "*". Ejemplo:
----
+Se pueden crear usando tres o más "+", "-" o "_". Ejemplo:
+________________________________________
