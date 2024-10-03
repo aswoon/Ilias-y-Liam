@@ -31,11 +31,17 @@ Ejemplo:
 + Lista 2  
 Ejemplo con números:  
 + 1. Lista 1
-+ 2. Lista 2
++ 2. Lista 2  
+Código:
+`+ Lista 1  
++ Lista 2`  
+`+ 1. Lista 1  
++ 2. Lista 2`  
 
 ## Reglas horizontales
 Se pueden crear usando tres o más "*", "-" o "_". Ejemplo:
 ________________________________________
+Código:
 `________________________________________`
 
 ## Links
