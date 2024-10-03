@@ -37,4 +37,9 @@ Se pueden crear usando tres o más "*", "-" o "_". Ejemplo:
 ________________________________________
 
 ## Links
-Se tienen que usar poniendo la palabra en corchetes y en enlace en paréntesis después. Ejemplo: [Google](https://google.com)
+Se tienen que usar poniendo la palabra en corchetes y en enlace en paréntesis después. Ejemplo:  
+ [Google](https://google.com)
+
+## Imágenes
+Se pone un ¨!¨ seguido de la descripción de la imagen entre corchetes y el enlace/directorio de esta en parentesis seguido. Ejemplo:  
+![Casa](https://st3.idealista.com/news/archivos/styles/fullwidth_xl/public/2021-10/aryon.jpg?VersionId=c.E5sjXJrfERZBFIorL3Hb.UEgbJVtaq&itok=uTjYqXuY)
