@@ -1,2 +1,4 @@
-# Liam es el amor de mi vida.
-**Liam mi amor no te vayas**
+Para poner cabeceras usamos un "#" antes de la frase.
+Ejemplo:
+# Ejemplo
+Se hace poniendo "#Ejemplo"
