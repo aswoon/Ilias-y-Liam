@@ -62,6 +62,6 @@ Ejemplo:
 ## Código
 Se usan poniendo "`" antes y después del texto.  
 Código:  
-``Ejemplo``
+``Ejemplo``   
 Ejemplo:  
 `Ejemplo`
