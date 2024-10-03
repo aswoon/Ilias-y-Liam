@@ -15,13 +15,16 @@ Se hace poniendo "#####Ejemplo"
 
 ## Formatos
 Para poner negrita usamos dos asteríscos antes y después, como en "**Ejemplo**"   
->**Ejemplo**
 Para poner cursiva solo usaremos un asterísco antes y después, como en "*Ejemplo*"   
->*Ejemplo*
 Para poner negrita y cursiva a la vez usaremos tres asteríscos antes y después, como en "***Ejemplo***"   
->***Ejemplo***
 
 ## Citas
-Se crean usando un ">" antes de lo que vayas a poner.  
+Se crean citas usando un ">" antes de lo que vayas a poner.  
 Ejemplo:
 > Ejemplo
+
+## Listas
+Se crean listas usando el símbolo "+", "-" o un "*"  
+Ejemplo:
++ Lista 1
++ Lista 2
