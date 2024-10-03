@@ -37,4 +37,4 @@ Se pueden crear usando tres o más "*", "-" o "_". Ejemplo:
 ________________________________________
 
 ## Links
-Se tienen que usar paréntis o corchetes. Ejemplo: [google.com]
+Se tienen que usar poniendo la palabra en corchetes y en enlace en paréntesis después. Ejemplo: [Google](https://google.com)
