@@ -33,5 +33,8 @@ Ejemplo con números:
 + 2. Lista 2
 
 ## Reglas horizontales
-Se pueden crear usando tres o más "+", "-" o "_". Ejemplo:
+Se pueden crear usando tres o más "*", "-" o "_". Ejemplo:
 ________________________________________
+
+## Links
+Se tienen que usar paréntis o corchetes. Ejemplo: [google.com]
