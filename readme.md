@@ -65,7 +65,7 @@ Ejemplo:
 ![Casa](https://st3.idealista.com/news/archivos/styles/fullwidth_xl/public/2021-10/aryon.jpg?VersionId=c.E5sjXJrfERZBFIorL3Hb.UEgbJVtaq&itok=uTjYqXuY)
 
 ## Código
-Se usan poniendo "`" antes y después del texto.   
+``Se usan poniendo "`" antes y después del texto.``  
 Ejemplo:  
 `Ejemplo`  
 Para bloques de código hay que poner 4 espacios o más antes de cada linea y poniendo tres "`" antes y después.  
