@@ -26,10 +26,10 @@ Ejemplo:
 
 ## Listas
 Se crean listas usando el símbolo "+", "-" o un "*". También se pueden usar números poniendo el número antes de la lista.
-Código:
+Código:  
 `+ Lista 1`  
 `+ Lista 2`  
-`+ 1. Lista 1`
+`+ 1. Lista 1`  
 `+ 2. Lista 2`  
 Ejemplo:
 + Lista 1
@@ -39,19 +39,29 @@ Ejemplo con números:
 + 2. Lista 2    
 
 ## Reglas horizontales
-Se pueden crear usando tres o más "*", "-" o "_". Ejemplo:
-________________________________________
+Se pueden crear usando tres o más "*", "-" o "_". Ejemplo:  
 Código:
 `________________________________________`
+________________________________________
+
 
 ## Links
-Se tienen que usar poniendo la palabra en corchetes y en enlace en paréntesis después. Ejemplo:  
+Se tienen que usar poniendo la palabra en corchetes y en enlace en paréntesis después.  
+Código:  
+`[Google](https://google.com)`  
+Ejemplo:  
  [Google](https://google.com)
 
 ## Imágenes
-Se pone un ¨!¨ seguido de la descripción de la imagen entre corchetes y el enlace/directorio de esta en parentesis seguido. Ejemplo:  
+Se pone un ¨!¨ seguido de la descripción de la imagen entre corchetes y el enlace/directorio de esta en parentesis seguido.  
+Código:  
+`![Casa](https://st3.idealista.com/news/archivos/styles/fullwidth_xl/public/2021-10/aryon.jpg?VersionId=c.E5sjXJrfERZBFIorL3Hb.UEgbJVtaq&itok=uTjYqXuY)`  
+Ejemplo:  
 ![Casa](https://st3.idealista.com/news/archivos/styles/fullwidth_xl/public/2021-10/aryon.jpg?VersionId=c.E5sjXJrfERZBFIorL3Hb.UEgbJVtaq&itok=uTjYqXuY)
 
 ## Código
-Se usan poniendo "`" antes y después del texto. Ejemplo:  
+Se usan poniendo "`" antes y después del texto.  
+Código:  
+``Ejemplo``
+Ejemplo:  
 `Ejemplo`
