@@ -27,7 +27,12 @@ Ejemplo:
 Se crean listas usando el símbolo "+", "-" o un "*". También se pueden usar números poniendo el número antes de la lista.
 Ejemplo:
 + Lista 1
-+ Lista 2
++ Lista 2  
 Ejemplo con números:  
 + 1. Lista 1
 + 2. Lista 2
+
+## Reglas horizontales
+
+Se pueden crear usando tres o más "+", "-" o "*". Ejemplo:
+---
