@@ -1,8 +1,12 @@
 # Manual de Markdown.
-# Cabeceras/titulos
-Para poner cabeceras usamos un "#" antes de la frase.
+## Cabeceras/titulos
+Para poner cabeceras usamos un "#" antes de la frase, por cada nivel ponemos uno más.
 Ejemplo:
 # Ejemplo
+## Ejemplo
+### Ejemplo
+#### Ejemplo
+##### Ejemplo
 Se hace poniendo "#Ejemplo"
 
 # Formatos
