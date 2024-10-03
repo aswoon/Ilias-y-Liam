@@ -4,23 +4,28 @@
 Para poner cabeceras usamos un "#" antes de la frase, por cada nivel ponemos uno más.
 Ejemplo:
 # Ejemplo
-Se hace poniendo "#Ejemplo"
+Se hace poniendo `#Ejemplo`
 ## Ejemplo
-Se hace poniendo "##Ejemplo"
+Se hace poniendo `##Ejemplo`
 ### Ejemplo
-Se hace poniendo "###Ejemplo"
+Se hace poniendo `###Ejemplo`
 #### Ejemplo
-Se hace poniendo "####Ejemplo"
+Se hace poniendo `####Ejemplo`
 ##### Ejemplo
-Se hace poniendo "#####Ejemplo"
+Se hace poniendo `#####Ejemplo`
 
 ## Formatos
 Para poner negrita usamos dos asteríscos antes y después, como en "**Ejemplo**"   
+Código:  `**Ejemplo**`  
 Para poner cursiva solo usaremos un asterísco antes y después, como en "*Ejemplo*"   
+Código:  `*Ejemplo*`  
 Para poner negrita y cursiva a la vez usaremos tres asteríscos antes y después, como en "***Ejemplo***"   
+Código:  `***Ejemplo***`  
 
 ## Citas
 Se crean citas usando un ">" antes de lo que vayas a poner.  
+Código:  
+`> Ejemplo`  
 Ejemplo:
 > Ejemplo
 
@@ -60,8 +65,6 @@ Ejemplo:
 ![Casa](https://st3.idealista.com/news/archivos/styles/fullwidth_xl/public/2021-10/aryon.jpg?VersionId=c.E5sjXJrfERZBFIorL3Hb.UEgbJVtaq&itok=uTjYqXuY)
 
 ## Código
-Se usan poniendo "`" antes y después del texto.  
-Código:  
-``Ejemplo``   
+Se usan poniendo "`" antes y después del texto.    
 Ejemplo:  
 `Ejemplo`
