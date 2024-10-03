@@ -1,4 +1,5 @@
 # Manual de Markdown.
+![Markdown](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/markdown-logo-on-a-blue-background.png)
 ## Cabeceras/titulos
 Para poner cabeceras usamos un "#" antes de la frase, por cada nivel ponemos uno más.
 Ejemplo:
