@@ -68,8 +68,8 @@ Ejemplo:
 ``Se usan poniendo "`" antes y después del texto.``  
 Ejemplo:  
 `Ejemplo`  
-Para bloques de código hay que poner 4 espacios o más antesy después de cada linea.  
-Código: `    Ejemplo`  
+Para bloques de código hay que poner 4 espacios o más antesy después de cada linea y poniendo tres "`" antes y después.  
+Código: ````    Ejemplo````  
 Ejemplo:  
     Código ejemplo 1    
      Código ejemplo 2     
