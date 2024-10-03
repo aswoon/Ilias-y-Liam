@@ -1,4 +1,4 @@
-# Manual de Markdown.
+# Manual de Markdown
 ![Markdown](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/markdown-logo-on-a-blue-background.png)
 ## Cabeceras/titulos
 Para poner cabeceras usamos un "#" antes de la frase, por cada nivel ponemos uno más.
@@ -36,6 +36,7 @@ Ejemplo con números:
 ## Reglas horizontales
 Se pueden crear usando tres o más "*", "-" o "_". Ejemplo:
 ________________________________________
+`________________________________________`
 
 ## Links
 Se tienen que usar poniendo la palabra en corchetes y en enlace en paréntesis después. Ejemplo:  
@@ -44,3 +45,7 @@ Se tienen que usar poniendo la palabra en corchetes y en enlace en paréntesis d
 ## Imágenes
 Se pone un ¨!¨ seguido de la descripción de la imagen entre corchetes y el enlace/directorio de esta en parentesis seguido. Ejemplo:  
 ![Casa](https://st3.idealista.com/news/archivos/styles/fullwidth_xl/public/2021-10/aryon.jpg?VersionId=c.E5sjXJrfERZBFIorL3Hb.UEgbJVtaq&itok=uTjYqXuY)
+
+## Código
+Se usan poniendo "`" antes y después del texto. Ejemplo:  
+`Ejemplo`
