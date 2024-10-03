@@ -65,6 +65,6 @@ Ejemplo:
 ![Casa](https://st3.idealista.com/news/archivos/styles/fullwidth_xl/public/2021-10/aryon.jpg?VersionId=c.E5sjXJrfERZBFIorL3Hb.UEgbJVtaq&itok=uTjYqXuY)
 
 ## Código
-``Se usan poniendo "`" antes y después del texto., como en `Ejemplo```  
+``Se usan poniendo "`" antes y después del texto.``  
 Ejemplo:  
 `Ejemplo`
